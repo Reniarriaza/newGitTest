@@ -1,0 +1,4 @@
+newGitTest
+==========
+
+My first git
